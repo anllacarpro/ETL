@@ -1,0 +1,6 @@
+id_comercio,RUC,codigo_comercio,nombre_comercio,direccion,telefono,email,fecha_registro
+1,20555530090,C001,Comercio A,Dir A,123456789,a@example.com,2023-01-01
+2,20177710021,C002,Comercio B,Dir B,987654321,b@example.com,2023-01-02
+3,20666620032,C003,Comercio C,Dir C,123123123,c@example.com,2023-01-03
+4,20777730043,C004,Comercio D,Dir D,321321321,d@example.com,2023-01-04
+5,20888840054,C005,Comercio E,Dir E,456456456,e@example.com,2023-01-05
