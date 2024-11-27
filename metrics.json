@@ -1,0 +1,10 @@
+{
+    "avg_resolution_time": 222.9,
+    "valid_tickets": 50,
+    "invalid_tickets": 50,
+    "tickets_per_area": {
+        "Squad Producto": 18,
+        "Customer Care": 17,
+        "SquadBD": 15
+    }
+}
