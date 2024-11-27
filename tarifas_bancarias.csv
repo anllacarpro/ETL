@@ -1,0 +1,9 @@
+banco,tipo_tarjeta,comision
+BCP,Débito,0.015
+BCP,Crédito,0.02
+Interbank,Débito,0.012
+Interbank,Crédito,0.018
+Scotiabank,Débito,0.014
+Scotiabank,Crédito,0.019
+BBVA,Débito,0.013
+BBVA,Crédito,0.017
