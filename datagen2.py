@@ -2,6 +2,7 @@ import sqlite3
 import numpy as np
 from datetime import datetime, timedelta
 import random
+import uuid
 
 # Nombre de la base de datos
 db_path = 'comercio_ventas.db'
@@ -16,7 +17,7 @@ comercios = [
     (f"2055{str(i).zfill(5)}", f"C{str(i).zfill(3)}", f"Comercio {i}", "Dirección Y", "987654321",
      f"correo{i}@example.com", random.choice(["Lima", "Arequipa", "Cusco", "Trujillo", "Piura"]),
      random.choice(["Miraflores", "San Isidro", "Centro", "Los Olivos", "Surco"]),
-     "Provincia X", "Departamento X", random.choice(["Minorista", "Mayorista"]),
+     "Provincia X", "Departamento X", random.choice(["Online", "Offline"]),
      random.choice(["Alimentos", "Tecnología", "Moda", "Salud", "Hogar"]),
      round(np.random.uniform(50000, 200000), 2), 
      (datetime.now() - timedelta(days=np.random.randint(0, 3650))).strftime("%Y-%m-%d"),
@@ -67,7 +68,7 @@ for comercio_id in comercio_ids:
         id_producto = random.choice(producto_ids)
         fecha_transaccion = datetime.now() - timedelta(days=np.random.randint(0, 365))
         tipo_operacion = "Venta"
-        id_operacion = f"{comercio_id}_{transaction_count}"
+        id_operacion = f"{comercio_id}_{uuid.uuid4()}"
         estado = random.choice(["En proceso", "Completado", "Rechazado"])
         monto = round(np.random.uniform(5, 2000), 2)
         moneda = "Soles"

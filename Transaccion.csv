@@ -1,21 +1,21 @@
 id_transaccion,id_comercio,fecha_transaccion,tipo_operacion,id_operacion,estado,monto,moneda,id_producto,motivo_venta_observada
-1,5,2024-05-04 00:25:59.995358,Venta,OP000001,Rechazado,88.46,Soles,5,Sin observaciones
-2,1,2024-10-18 00:25:59.995358,Venta,OP000002,Completado,171.96,Soles,9,
-3,3,2024-06-17 00:25:59.995358,Venta,OP000003,Rechazado,152.3,Soles,7,Sin observaciones
-4,2,2024-08-21 00:25:59.995358,Venta,OP000004,Rechazado,31.44,Soles,1,Observado
-5,5,2024-01-27 00:25:59.995358,Venta,OP000005,Rechazado,174.72,Soles,6,
-6,5,2024-09-29 00:25:59.995358,Venta,OP000006,Rechazado,113.28,Soles,9,Sin observaciones
-7,1,2024-09-15 00:25:59.995358,Venta,OP000007,En proceso,37.24,Soles,6,Observado
-8,5,2024-10-17 00:25:59.995358,Venta,OP000008,Completado,121.23,Soles,7,Sin observaciones
-9,4,2024-09-07 00:25:59.995358,Venta,OP000009,Rechazado,153.52,Soles,5,Observado
-10,4,2024-01-18 00:25:59.995358,Venta,OP000010,En proceso,167.09,Soles,3,Sin observaciones
-11,1,2023-11-28 00:25:59.995358,Venta,OP000011,Completado,19.74,Soles,8,
-12,2,2024-09-26 00:25:59.995358,Venta,OP000012,En proceso,132.23,Soles,1,Sin observaciones
-13,1,2024-01-28 00:25:59.995358,Venta,OP000013,En proceso,53.31,Soles,2,Sin observaciones
-14,5,2024-10-05 00:25:59.995358,Venta,OP000014,En proceso,121.56,Soles,9,
-15,5,2024-05-04 00:25:59.995358,Venta,OP000015,Rechazado,139.33,Soles,7,Sin observaciones
-16,5,2024-08-16 00:25:59.995358,Venta,OP000016,En proceso,9.71,Soles,10,
-17,3,2024-10-08 00:25:59.995358,Venta,OP000017,Completado,69.05,Soles,7,Sin observaciones
-18,4,2024-09-23 00:25:59.995358,Venta,OP000018,En proceso,57.42,Soles,7,Observado
-19,1,2024-08-14 00:25:59.995358,Venta,OP000019,Completado,153.06,Soles,4,Observado
-20,1,2024-07-29 00:25:59.995358,Venta,OP000020,Rechazado,138.12,Soles,5,Observado
+1,2,2024-04-18 16:49:23.978383,Venta,OP000001,Completado,151.97,Soles,7,
+2,2,2024-08-05 16:49:23.978383,Venta,OP000002,Completado,139.93,Soles,10,
+3,3,2024-07-17 16:49:23.978383,Venta,OP000003,En proceso,95.84,Soles,1,Sin observaciones
+4,4,2024-08-25 16:49:23.978383,Venta,OP000004,En proceso,141.76,Soles,10,
+5,2,2024-05-05 16:49:23.978383,Venta,OP000005,Rechazado,195.52,Soles,1,
+6,1,2024-07-17 16:49:23.978383,Venta,OP000006,En proceso,16.09,Soles,4,
+7,4,2024-02-18 16:49:23.978383,Venta,OP000007,Rechazado,165.47,Soles,9,Sin observaciones
+8,1,2024-05-01 16:49:23.978383,Venta,OP000008,Completado,185.56,Soles,2,
+9,1,2024-01-26 16:49:23.978383,Venta,OP000009,Rechazado,182.74,Soles,9,Sin observaciones
+10,2,2024-03-24 16:49:23.978383,Venta,OP000010,Rechazado,177.13,Soles,4,
+11,1,2024-11-23 16:49:23.978383,Venta,OP000011,En proceso,51.76,Soles,3,
+12,3,2024-06-20 16:49:23.978383,Venta,OP000012,En proceso,10.34,Soles,2,Sin observaciones
+13,2,2024-03-12 16:49:23.978383,Venta,OP000013,En proceso,56.19,Soles,3,Observado
+14,3,2024-09-21 16:49:23.978383,Venta,OP000014,Completado,148.74,Soles,4,Observado
+15,3,2024-10-26 16:49:23.978383,Venta,OP000015,Rechazado,101.61,Soles,6,
+16,4,2024-07-28 16:49:23.978383,Venta,OP000016,En proceso,87.33,Soles,10,
+17,1,2024-01-18 16:49:23.978383,Venta,OP000017,Completado,13.44,Soles,8,Observado
+18,4,2024-07-08 16:49:23.978383,Venta,OP000018,En proceso,145.83,Soles,6,
+19,3,2024-11-05 16:49:23.978383,Venta,OP000019,En proceso,13.52,Soles,6,
+20,1,2023-12-22 16:49:23.978383,Venta,OP000020,Completado,33.44,Soles,7,

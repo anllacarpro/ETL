@@ -1,11 +1,11 @@
 id_producto,id_comercio,nombre_producto,categoria,precio_unitario
-1,1,Producto A1,Categoría 1,97.08
-2,1,Producto A2,Categoría 2,94.45
-3,2,Producto B1,Categoría 1,24.93
-4,2,Producto B2,Categoría 2,50.92
-5,3,Producto C1,Categoría 1,72.77
-6,3,Producto C2,Categoría 2,21.15
-7,4,Producto D1,Categoría 1,77.53
-8,4,Producto D2,Categoría 2,44.77
-9,5,Producto E1,Categoría 1,12.92
-10,5,Producto E2,Categoría 2,47.39
+1,1,Producto A1,Categoría 1,65.79
+2,1,Producto A2,Categoría 2,44.49
+3,2,Producto B1,Categoría 1,83.85
+4,2,Producto B2,Categoría 2,89.81
+5,3,Producto C1,Categoría 1,77.52
+6,3,Producto C2,Categoría 2,63.73
+7,4,Producto D1,Categoría 1,22.21
+8,4,Producto D2,Categoría 2,94.27
+9,5,Producto E1,Categoría 1,16.66
+10,5,Producto E2,Categoría 2,98.53
