@@ -1,0 +1,33 @@
+ticket_id,status,assigned_area,resolution_time,interactions,product,is_valid
+TICKET_004,En trabajo,SquadBD,315,6,Online,True
+TICKET_008,Nuevo,SquadBD,101,9,Online,True
+TICKET_014,En trabajo,Customer Care,457,3,Online,True
+TICKET_019,Nuevo,Squad Producto,280,3,Online,True
+TICKET_020,Nuevo,Squad Producto,265,4,Online,True
+TICKET_024,Nuevo,Customer Care,102,4,Online,True
+TICKET_025,Completado,Squad Producto,54,2,Online,True
+TICKET_027,Derivado,SquadBD,121,3,Online,True
+TICKET_031,Nuevo,SquadBD,403,1,Online,True
+TICKET_033,Nuevo,SquadBD,401,10,Online,True
+TICKET_035,Derivado,Squad Producto,151,2,Online,True
+TICKET_042,Completado,SquadBD,58,9,Online,True
+TICKET_045,Completado,SquadBD,256,1,Online,True
+TICKET_048,Nuevo,Customer Care,285,3,Online,True
+TICKET_049,Derivado,Customer Care,195,4,Online,True
+TICKET_050,Completado,SquadBD,284,2,Online,True
+TICKET_053,Derivado,Customer Care,381,9,Online,True
+TICKET_054,Completado,SquadBD,405,8,Online,True
+TICKET_058,En trabajo,Squad Producto,331,5,Online,True
+TICKET_060,Nuevo,Squad Producto,419,1,Online,True
+TICKET_061,En trabajo,Customer Care,343,10,Online,True
+TICKET_063,Derivado,Squad Producto,297,9,Online,True
+TICKET_073,En trabajo,SquadBD,423,7,Online,True
+TICKET_074,Derivado,Squad Producto,82,10,Online,True
+TICKET_076,Derivado,SquadBD,138,1,Online,True
+TICKET_078,Completado,Customer Care,98,8,Online,True
+TICKET_079,Nuevo,SquadBD,259,6,Online,True
+TICKET_080,Completado,SquadBD,31,8,Online,True
+TICKET_082,En trabajo,Squad Producto,207,5,Online,True
+TICKET_089,Nuevo,SquadBD,379,7,Online,True
+TICKET_095,Derivado,Squad Producto,49,1,Online,True
+TICKET_100,En trabajo,SquadBD,162,2,Online,True
